@@ -4,6 +4,7 @@ A program to compute an approximate value for the derivative of f(x) using the f
 
 
 ##Installation For Window------------------------
+
 Make sure Java is installed on your machine.
 
 Extract the zip file, and navigate to extracted MA02EstDerivative folder. 
@@ -35,6 +36,7 @@ Example Output:
 
 
 ##Installation For Unix------------------------
+
 Make sure Java is installed on your machine.
 
 Extract the zip file, and navigate to extracted MA02EstDerivative folder. 
