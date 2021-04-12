@@ -54,7 +54,9 @@ Once the build is complete run the following command to start the converstion of
 
 Example: java -jar ./build/libs/MA02EstDerivative.jar
 Example Output:
+
 	h               x               Approx. f'(x):                  Known f'(x):                            Abs. Error:
+	
 	2^-1            1               0.3120480035923159              0.5403023058681398                      0.228254302276
 	
 	2^-2            1               0.4300545381907588              0.5403023058681398                      0.110247767677
