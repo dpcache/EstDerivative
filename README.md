@@ -1,9 +1,9 @@
-#Machine Assignment 2B
+# Machine Assignment 2B
 
 A program to compute an approximate value for the derivative of f(x) using the finite difference formula up to 2^-30.
 
 
-##Installation For Window------------------------
+## Installation For Window------------------------
 
 Make sure Java is installed on your machine.
 
@@ -21,6 +21,7 @@ Once the build is complete run the following command to start.
 
 Example: java -jar .\build\libs\MA02EstDerivative.jar
 Example Output:
+
 	h               x               Approx. f'(x):                  Known f'(x):                            Abs. Error:
 	
 	2^-1            1               0.3120480035923159              0.5403023058681398                      0.228254302276
@@ -35,7 +36,7 @@ Example Output:
 
 
 
-##Installation For Unix------------------------
+## Installation For Unix------------------------
 
 Make sure Java is installed on your machine.
 
