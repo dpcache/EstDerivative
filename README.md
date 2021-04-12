@@ -3,7 +3,7 @@
 A program to compute an approximate value for the derivative of f(x) using the finite difference formula up to 2^-30.
 
 
-## Installation For Window------------------------
+## Installation For Window
 
 Make sure Java is installed on your machine.
 
@@ -36,7 +36,7 @@ Example Output:
 
 
 
-## Installation For Unix------------------------
+## Installation For Unix
 
 Make sure Java is installed on your machine.
 
